@@ -10,7 +10,7 @@
 My name is Luiz Cunha, a Computer Science student at the Universidade Federal de Mato Grosso - UFMT.
 
 - :office_worker: [POLITEC - MT](http://www.politec.mt.gov.br/)
-- :blue_heart: Techs: NodeJS, VueJS, Quasar Framework, among others.
+- :blue_heart: Techs: NodeJS, React, Java and others.
 - :books: Studying all layers in Software Development and Open Source :heart:
 
 **Languages and Tools:**
