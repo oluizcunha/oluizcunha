@@ -5,7 +5,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565984526656&text=Olá!)](https://api.whatsapp.com/send?phone=5565984526656&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizotcunha@gmail.com)](mailto:luizotcunha@gmail.com)
 
-## Hi! 👋
+## Oie 👋
 
 My name is Luiz Cunha, a Computer Science student at the Universidade Federal de Mato Grosso - UFMT.
 
@@ -32,6 +32,6 @@ My name is Luiz Cunha, a Computer Science student at the Universidade Federal de
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=oluizcunha&show_icons=true&hide_border=true)
 
-> :octocat: [oluizcunha.github.io](https://oluizcunha.github.io)
+ <> > :octocat: [oluizcunha.github.io](https://oluizcunha.github.io)
 
 ---
