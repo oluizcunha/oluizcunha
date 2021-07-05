@@ -35,6 +35,6 @@ My name is Luiz Cunha, a Computer Science student at the Universidade Federal de
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=oluizcunha&show_icons=true&hide_border=true)
 
- <> > :octocat: [oluizcunha.github.io](https://oluizcunha.github.io)
+:octocat: [oluizcunha.github.io](https://oluizcunha.github.io)
 
 ---
