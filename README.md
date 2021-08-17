@@ -9,8 +9,8 @@
 
 My name is Luiz Cunha, a Computer Science student at the Universidade Federal de Mato Grosso - UFMT.
 
-- :office_worker: [POLITEC - MT](https://giganti.com.br//)
-- :blue_heart: Techs: NodeJS, C#, React, Java and others.
+- :office_worker: [CAPGEMINI](https://www.capgemini.com/br-pt/)
+- :blue_heart: Techs: NodeJS, C#, Angular, React, Java and others.
 - :books: Studying all layers in Software Development and Open Source :heart:
 
 **Languages and Tools:**
